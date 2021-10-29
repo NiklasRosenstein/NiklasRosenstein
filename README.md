@@ -6,32 +6,37 @@ Fun fact; I've learned Python programming on a jailbroken iPod Touch 2nd Gen whe
 
 ---
 
-#### Actively maintained projects
+## Projects
 
-* [databind](https://github.com/NiklasRosenstein/databind) &ndash; Jackson-inspired Python library for typesafe data de-/serialization.
-* [docspec](https://github.com/NiklasRosenstein/docspec) &ndash; Python library for representing and parsing API documentation (currently only parses Python). Backbone of Pydoc-Markdown.
-* [git-profile](https://github.com/NiklasRosenstein/git-profile) &ndash; Easily switch between Git configuration profiles.
-* [nr-python](https://github.com/NiklasRosenstein/nr-python) &ndash; A suite of libraries with various intents and purposes all prefixed under the `nr` namespace package.
-* [powerline](https://github.com/NiklasRosenstein/powerline) &ndash; Python-based Bash powerline.
-* [pydoc-markdown](https://github.com/NiklasRosenstein/pydoc-markdown) &ndash; Generate Python API documentation in Markdown format (for direct use or with static site generators).
-* [python-github-bot-api](https://github.com/NiklasRosenstein/python-github-bot-api) &ndash; Layer on top of PyGithub to provide an easy API for implementing GitHub bots.
-* [shut](https://github.com/NiklasRosenstein/shut) &ndash; CLI to help manage Python package releases, setup files and mono repositories.
+Here is a list of my most relevant projects on GitHub:
 
-#### Other projects
+### Python Libraries
 
-A list of my favorite projects, some of which have been discontinued for various reasons (for example due to discontinued upstream dependency).
+| Name | Short description |
+| ---- | ----------------- |
+| [`databind`](https://github.com/NiklasRosenstein/databind) | A Jackson inspired library for typesafe data de-/serialization. |
+| [`docspec`](https://github.com/NiklasRosenstein/docspec)  | Represent API documentation and to extract it from Python code. |
+| [`python-github-bot-api`](https://github.com/NiklasRosenstein/python-github-bot-api) | Easy to use API to create GitHub bots using PyGithub. |
+| [`nr-python`](https://github.com/NiklasRosenstein/nr-python) | A suite of libraries for various intents and purposes under the `nr` namespace. |
+| [`myo-python`](https://github.com/nrosenstein-stuff/myo-python) <sup>discontinued</sup> | Ctypes wrapper to interface with the Thalmic Myo armband. |
 
-* [craftr](https://github.com/craftr-build/craftr) &ndash; A general purpose build system written in Python, backed by Ninja.
-* [flux-ci](https://github.com/nrosenstein-stuff/flux-ci) &ndash; Small CI server implemented in Python.
-* [nodepy](https://github.com/nodepy) &ndash; What NodeJS/NPM is for V8, but for Python.
-* [musicroom](https://github.com/nrosenstein-stuff/musicroom) &ndash; Join a room with friends and listen to the same music/YouTube video in sync.
-* [myo-python](https://github.com/nrosenstein-stuff/myo-python) &ndash; Popular ctypes-based wrapper to interface with the Thalmic Myo armband (discontinued)
-* [telegram-dachau_impf_bot](https://github.com/nrosenstein-stuff/telegram-dachau_impf_bot) &ndash; Telegram bot to notify people of the vaccination availability in Dachau, Germany. (inactive)
+### Applications
 
-#### Orgs
+| Name | Short description |
+| ---- | ----------------- |
+| [Craftr](https://github.com/craftr-build/craftr) <sup>wip</sup> | A general purpose build system written in Python. |
+| [Git-Profile](https://github.com/NiklasRosenstein/git-profile) | Easily switch between Git configuration profiles. |
+| [Shut](https://github.com/NiklasRosenstein/shut) | Opinionated CLI to manage Python package setup files and releases. |
+| [Powerline](https://github.com/NiklasRosenstein/powerline) <sup>wip</sup> | Python-based Bash powerline. |
+| [Pydoc-Markdown](https://github.com/NiklasRosenstein/pydoc-markdown) | API documentation generator for Python packages in Markdown format and Markdown-compatible static site generators. |
+| [Flux-CI](https://github.com/nrosenstein-stuff/flux-ci) <sup>discontinued</sup> | A small CI server implemented in Python. |
 
-Looking for all my other code? Try these orgs:
+---
 
+You can browse all of my repositories on my profile and in these these GitHub organizations:
+
+* [craftr-build](https://github.com/craftr-build)
+* [nodepy](https://github.com/nodepy)
 * [nrosenstein-c4d](https://github.com/nrosenstein-c4d) &ndash; Source code for all the Cinema 4D plugins I built back in the days.
 * [nrosenstein-forks](https://github.com/nrosenstein-forks) &ndash; This is where I fork repositories to for contributions.
 * [nrosenstein-old](https://github.com/nrosenstein-old) &ndash; Old projects that are totally unmaintained but could still be useful to some.
