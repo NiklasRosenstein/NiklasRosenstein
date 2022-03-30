@@ -1,10 +1,17 @@
-Hi, my name is Niklas. I'm a self-taught developer with a passion for Python.
+Hi, my name is Niklas.
+
+__Languages__
+
+* Python (13+ years, 9+ professionally)
+* Java (experienced)
+* C++ (experienced)
+* Rust (beginner)
 
 __Bio__
 
 * Software Engineer at Helsing (2022 - current)
-* Forward Deployed Engineer at Palantir (2018 - 2022)
-* Freelance Python/C++ developer specialized on plugins for MAXON Cinema 4D (2013 - 2018)
+* Forward Deployed Engineer at Palantir (2018 - 2022) [Python/Java]
+* Freelance developer specialized on plugins for MAXON Cinema 4D (2013 - 2018) [Python/C++]
 
 __Projects__
 
