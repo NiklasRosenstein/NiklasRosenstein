@@ -7,7 +7,7 @@ __Languages__
 * C++ (experienced)
 * Rust (beginner)
 
-__Bio__
+__Career__
 
 * Software Engineer at Helsing (2022 - current)
 * Forward Deployed Engineer at Palantir (2018 - 2022) [Python/Java]
